@@ -1,0 +1,37 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                buttonDel = id; 
+                clearResult = id; 
+                function01 = id; 
+                function02 = id; 
+                function03 = id; 
+                function04 = id; 
+                function05 = id; 
+                function06 = id; 
+                function07 = id; 
+                function08 = id; 
+                function09 = id; 
+                numberFieldChanged = id; 
+            }; 
+            CLASS = NSLesson03; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                numberField = NSTextField; 
+                resultFunction01 = NSTextField; 
+                resultFunction02 = NSTextField; 
+                resultFunction03 = NSTextField; 
+                resultFunction04 = NSTextField; 
+                resultFunction05 = NSTextField; 
+                resultFunction06 = NSTextField; 
+                resultFunction07 = NSTextField; 
+                resultFunction08 = NSTextField; 
+                resultFunction09 = NSTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

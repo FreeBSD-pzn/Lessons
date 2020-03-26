@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {clearmessage = id; putmessage = id; }; 
+            CLASS = NSLesson05; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textField = NSTextField; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

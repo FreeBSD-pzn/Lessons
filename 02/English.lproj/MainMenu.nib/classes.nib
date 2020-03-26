@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {stringFieldLower = id; stringFieldUpper = id; textFieldChanged = id; }; 
+            CLASS = NSLesson02; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {resultStringView = NSTextField; stringField = NSTextField; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
