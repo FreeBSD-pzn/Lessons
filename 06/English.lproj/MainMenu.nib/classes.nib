@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {CountMin = id; CountSec = id; clearTimer = id; setTimer = id; }; 
+            CLASS = lesson06; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                textMinutes = NSTextField; 
+                textSeconds = NSTextField; 
+                timeIsOver = NSTextField; 
+                uiMinutes = NSStepper; 
+                uiSeconds = NSStepper; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
